@@ -1,0 +1,26 @@
+1. TAGS
+     -head
+     -body
+     -header
+     -article
+     -para tag
+     - heading tags, h1,h2,h3,etc
+     -div
+     -nav
+     -list
+        -list
+        -ol
+        -ul
+     - anchor- <a href.......>sfqf</a>
+     -button
+     -table
+        -td
+        -tr
+     -iframe
+
+2. FIND ELEMENTS IN ORDER
+    -ID
+    - CLASS NAME
+    -TAG NAME,CSS-SELECTOR
+    -Xpath
+

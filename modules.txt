@@ -1,0 +1,18 @@
+1. BEAUTIFUL SOUP
+   - Easy to learn
+   - No JavaScript Support
+   - Inefficient
+   - Has Dependencies that makes it completed to transfer codes between projects. 
+
+2. SELENIUM
+   - WebDriver designed to render web pages for testing automation.
+   - Works with JavaScript
+   - Easier to learn than Scrapy.
+   - Slow
+
+3. Scrapy
+   - Best module for webscraping.
+   - Harder to learn
+   - Fast in speed
+   - Efficient
+   - Complete Framework
